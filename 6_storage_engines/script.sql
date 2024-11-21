@@ -1,1 +1,1 @@
--- Write your SQL code here
+ALTER TABLE CLIENT ENGINE=InnoDB;
